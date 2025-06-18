@@ -1,0 +1,100 @@
+﻿id,kanji,meaning,on_reading,kun_reading,next_review_time,correct_counter
+1,初,beginning/first time,ショ,-そ.める/-ぞ.め/うい-/はじ.め/はじ.めて/はつ/はつ-,null,0
+2,愛,affection/favourite/love,アイ,いと.しい/お.しむ/かな.しい/まな/め.でる,null,0
+3,案,bench/draft/expectation/fear/idea/plan/ponder/proposition/suggestion/table/worry,アン,つくえ,null,0
+4,以,because/by means of/compared with/in view of,イ,もっ.て,null,0
+5,意,care/desire/heart/idea/liking/mind/taste/thought,イ,,null,0
+6,医,doctor/medicine,イ,い.する/い.やす/くすし,null,0
+7,員,employee/member/number/the one in charge,イン,,null,0
+8,院,Inst./institution/mansion/school/temple,イン,,null,0
+9,運,advance/carry/destiny/fate/lot/luck/progress/transport,ウン,はこ.ぶ,null,0
+10,映,projection/reflect/reflection,エイ,-ば.え/うつ.す/うつ.る/は.える,null,0
+11,英,England/English/calyx/hero/outstanding,エイ,はなぶさ,null,0
+12,横,horizontal/perverse/side/sideways/unreasonable/width/woof,オウ,よこ,null,0
+13,屋,dealer/house/roof/seller/shop,オク,や,null,0
+14,温,warm,オン,あたた.か/あたた.かい/あたた.まる/あたた.める/ぬく,null,0
+15,化,-ization/change/delude/enchant/influence/take the form of,カ/ケ,け.する/ば.かす/ば.ける/ふ.ける,null,0
+16,荷,baggage/bear (a burden)/cargo/freight/load/shoulder (a gun)/shoulder-pole load,カ,に,null,0
+17,階,counter for storeys of a building/stair/storey,カイ,きざはし,null,0
+18,感,emotion/feeling/sensation,カン,,null,0
+19,漢,China/Sino-,カン,,null,0
+20,館,building/large building/mansion/palace,カン,たて/やかた,null,0
+21,願,hope/petition/request/vow/wish,ガン,-ねがい/ねが.う,null,0
+22,起,get up/rouse/wake up,キ,お.きる/お.こす/お.こる/おこ.す/た.つ,null,0
+23,期,date/period/term/time,キ/ゴ,,null,0
+24,客,client/customer/guest/visitor,カク/キャク,,null,0
+25,急,emergency/hurry/steep/sudden,キュウ,いそ.ぎ/いそ.ぐ/せ.く,null,0
+26,究,research/study,キュウ/ク,きわ.める,null,0
+27,級,class/grade/rank,キュウ,,null,0
+28,去,divorce/elapse/eliminate/gone/leave/past/quit,キョ/コ,-さ.る/さ.る,null,0
+29,魚,fish,ギョ,-ざかな/うお/さかな,null,0
+30,業,arts/business/performance/vocation,ギョウ/ゴウ,わざ,null,0
+31,局,affair/board/bureau/conclusion/court lady/her apartment/lady-in-waiting/office,キョク,つぼね,null,0
+32,近,akin/early/near/tantamount,キン/コン,ちか.い,null,0
+33,具,"counter for armor, suits, sets of furniture/ingredients/means/possess/tool/utensil",グ,そな.える/つぶさ.に,null,0
+34,係,concern oneself/connection/duty/person in charge,ケイ,-がかり/かか.る/かか.わる/かかり,null,0
+35,結,bind/contract/do up hair/fasten/join/organize/tie,ケチ/ケツ,むす.ぶ/ゆ.う/ゆ.わえる,null,0
+36,建,build,ケン/コン,-だ.て/た.つ/た.て/た.てる,null,0
+37,研,polish/sharpen/study of,ケン,と.ぐ,null,0
+38,県,prefecture,ケン,か.ける,null,0
+39,庫,storehouse/warehouse,ク/コ,くら,null,0
+40,向,approach/beyond/confront/defy/facing/tend toward/yonder,コウ,-む.き/-む.け/む.い/む.かい/む.かう/む.く/む.ける/む.こう/む.こう-/むか.い/むこ,null,0
+41,幸,blessing/fortune/happiness,コウ,さいわ.い/さち/しあわ.せ,null,0
+42,港,harbor,コウ,みなと,null,0
+43,号,call/item/name/nickname/number/pseudonym/title,ゴウ,さけ.ぶ/よびな,null,0
+44,根,head (pimple)/radical/root,コン,-ね/ね,null,0
+45,祭,celebrate/deify/enshrine/offer prayers/ritual/worship,サイ,まつ.り/まつ.る/まつり,null,0
+46,皿,a helping/dish/plate,ベイ,さら,null,0
+47,仕,attend/doing/official/serve,シ/ジ,つか.える,null,0
+48,死,death/die,シ,し.に-/し.ぬ,null,0
+49,指,finger/indicate/measure (ruler)/play (chess)/point to/put into,シ,-さ.し/さ.す/ゆび,null,0
+50,歯,cog/tooth,シ,は/よわ.い/よわい/よわい.する,null,0
+51,試,attempt/experiment/ordeal/test/try,シ,こころ.みる/ため.す,null,0
+52,実,fruit/nut/reality/seed/truth,シツ/ジツ,まこと/み/みち.る/みの/みの.る,null,0
+53,写,be photographed/copy/describe,シャ/ジャ,うつ-/うつ.し/うつ.す/うつ.る,null,0
+54,者,person/someone,シャ,もの,null,0
+55,主,chief/lord/main thing/master/principal,シュ/シュウ/ス,あるじ/おも/ぬし,null,0
+56,守,defend/guard/obey/protect,シュ/ス,-もり/かみ/まも.り/まも.る/もり,null,0
+57,取,fetch/take/take up,シュ,-ど.り/と.り/と.り-/と.る/とり,null,0
+58,酒,alcohol/sake,シュ,さか-/さけ,null,0
+59,受,accept/answer (phone)/catch/get/receive/take/undergo,ジュ,-う.け/う.かる/う.ける,null,0
+60,州,province/state,シュウ/ス,す,null,0
+61,習,learn,シュウ/ジュ,なら.い/なら.う,null,0
+62,集,congregate/flock/gather/meet/swarm,シュウ,あつ.まる/あつ.める/つど.う,null,0
+63,住,dwell/inhabit/live/reside,ジュウ/チュウ/ヂュウ,-ず.まい/す.まう/す.む,null,0
+64,重,-fold/esteem/heap up/heavy/important/nest of boxes/pile up/respect,ジュウ/チョウ,え/おも/おも.い/おも.なう/おも.り/かさ.なる/かさ.ねる,null,0
+65,宿,be pregnant/dwell/dwelling/home/inn/lodge/lodging/relay station,シュク,やど/やど.す/やど.る,null,0
+66,所,extent/place,ショ,-ところ/とこ/ところ/どころ,null,0
+67,暑,hot/sultry/summer heat,ショ,あつ.い,null,0
+68,助,assist/help/rescue,ジョ,す.ける/すけ/たす.かる/たす.ける,null,0
+69,昭,bright/shining,ショウ,,null,0
+70,消,blow out/cancel/extinguish/neutralize/turn off,ショウ,き.える/け.す,null,0
+71,商,dealing in/make a deal/merchant/selling,ショウ,あきな.う,null,0
+72,章,badge/chapter/composition/design/poem,ショウ,,null,0
+73,勝,excel/prevail/victory/win,ショウ,-が.ち/か.つ/かつ/すぐ.れる/まさ.る,null,0
+74,乗,board/counter for vehicles/join/mount/multiplication/power/record/ride,ショウ/ジョウ,-の.り/の.せる/の.る,null,0
+75,植,plant,ショク,う.える/う.わる,null,0
+76,身,one's station in life/person/somebody,シン,み,null,0
+77,神,gods/mind/soul,シン/ジン,かみ/かん-/こう-,null,0
+78,真,Buddhist sect/reality/true,シン,ま/ま-/まこと,null,0
+79,深,deep/heighten/intensify/strengthen,シン,-ぶか.い/ふか.い/ふか.まる/ふか.める/み-,null,0
+80,進,advance/proceed/progress/promote,シン,すす.む/すす.める,null,0
+81,世,generation/public/society/world,セ/セイ/ソウ,よ,null,0
+82,整,arranging/key (music)/meter/organize/tone/tune,セイ,ととの.う/ととの.える,null,0
+83,昔,antiquity/old times/once upon a time,シャク/セキ,むかし,null,0
+84,全,all/complete/entire/fulfill/whole,ゼン,すべ.て/まった.く,null,0
+85,送,escort/send,ソウ,おく.る,null,0
+86,想,concept/idea/think/thought,ソ/ソウ,おも.う,null,0
+87,息,breath/coming to an end/interest (on money)/nuture/respiration/rest/son,ソク,いき,null,0
+88,速,fast/quick,ソク,すみ.やか/はや-/はや.い/はや.める,null,0
+89,続,continue/sequel/series,キョウ/コウ/ショク/ゾク,つぐ.ない/つづ.く/つづ.ける,null,0
+90,卒,die/graduate/private/soldier,シュツ/ソツ,お.える/お.わる/そっ.する/ついに/にわか,null,0
+91,存,be aware of/believe/exist/feel/suppose,ソン/ゾン,あ.る/たも.つ/と.う/ながら.える,null,0
+92,対,anti-/compare/equal/even/opposite/versus/vis-a-vis,タイ/ツイ,あいて/こた.える/そろ.い/つれあ.い/なら.ぶ/むか.う,null,0
+93,第,No./residence,ダイ/テイ,,null,0
+94,題,subject/topic,ダイ,,null,0
+95,短,brevity/defect/fault/short/weak point,タン,みじか.い,null,0
+96,談,discuss/talk,ダン,,null,0
+97,着,arrive/counter for suits of clothing/don/wear,ジャク/チャク,き.せる/き.る/つ.く/つ.ける,null,0
+98,調,exorcise/harmonize/investigate/key (music)/mediate/meter/prepare/tone/tune/writing style,チョウ,しら.べ/しら.べる/ととの.う/ととの.える,null,0
+99,発,counter for gunshots/departure/discharge/disclose/emit/publish/start from,ハツ/ホツ,あば.く/おこ.る/た.つ/つか.わす/はな.つ,null,0

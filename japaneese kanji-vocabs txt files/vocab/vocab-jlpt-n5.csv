@@ -1,0 +1,126 @@
+﻿id,word,meaning,reading,next_review_time,correct_counter
+1,一,one,いち,null,0
+2,二,two,に,null,0
+3,三,three,さん,null,0
+4,四,four,し / よん,null,0
+5,五,five,ご,null,0
+6,六,six,ろく,null,0
+7,七,seven,しち / なな,null,0
+8,八,eight,はち,null,0
+9,九,nine,きゅう / く,null,0
+10,十,ten,じゅう  とお,null,0
+11,一つ,one,ひとつ,null,0
+12,二つ,two,ふたつ,null,0
+13,三つ,three,みっつ,null,0
+14,人,person,ひと,null,0
+15,一人,one person,ひとり,null,0
+16,二人,two people,ふたり,null,0
+17,十一,eleven,じゅういち,null,0
+18,十二,twelve,じゅうに,null,0
+19,十三,thirteen,じゅうさん,null,0
+20,百,hundred,ひゃく,null,0
+21,千,thousand,せん,null,0
+22,万,ten thousand,まん,null,0
+23,子,child,こ,null,0
+24,日本人,japaneese person,にほんじん,null,0
+25,大人,adult,おとな,null,0
+26,あなた,you,あなた,null,0
+27,私,(humble) I/ myself,わたくし/ わたし,null,0
+28,これ,this,これ,null,0
+29,この,this one,この,null,0
+30,ここ,here,ここ,null,0
+31,日,day/ sun,ひ,null,0
+32,今日,today,きょう,null,0
+33,昨日,yesterday,きのう,null,0
+34,明日,tomorrow,あした,null,0
+35,日本,Japan,にっぽん/ にほん,null,0
+36,本,book,ほん,null,0
+37,月,moon/ month,つき,null,0
+38,一月,january,いちがつ,null,0
+39,二月,february,にがつ,null,0
+40,五月,may,ごがつ,null,0
+41,一日,(1) one day/ (2) first of month,いちにち,null,0
+42,二日,two days/ second day of the month,ふつか,null,0
+43,三日,three days/ third day of the month,みっか,null,0
+44,火,fire,ひ,null,0
+45,火曜日,Tuesday,かようび,null,0
+46,水,water,みず,null,0
+47,水曜日,Wednesday,すいようび,null,0
+48,木,tree/ wood,き,null,0
+49,木曜日,Thursday,もくようび,null,0
+50,金,(1) gold/ (2) gold general (shogi) (abbr),かね,null,0
+51,金曜日,Friday,きんようび,null,0
+52,土,earth/ soil,つち,null,0
+53,土曜日,Saturday,どようび,null,0
+54,山,mountain,やま,null,0
+55,川,river,かわ,null,0
+56,上,on top of,うえ,null,0
+57,下,below,した,null,0
+58,それ,that,,null,0
+59,その,that,,null,0
+60,中,middle,なか,null,0
+61,大,,だい,null,0
+62,小,,しょう,null,0
+63,左,left hand side,ひだり,null,0
+64,右,right side,みぎ,null,0
+65,口,mouth/ opening,くち,null,0
+66,目,eye,め,null,0
+67,耳,ear,みみ,null,0
+68,手,hand,て,null,0
+69,足,foot/ leg,あし,null,0
+70,見る,to see/ to watch,みる,null,0
+71,音,sound/ note,おと,null,0
+72,力,strength/ power,ちから,null,0
+73,気,spirit/ mood,き,null,0
+74,円,circle/ money,えん,null,0
+75,あの,that over there,,null,0
+76,あれ,that,,null,0
+77,入る,to enter/ to contain,はいる,null,0
+78,見せる,to show,みせる,null,0
+79,出る,to appear/ to leave,でる,null,0
+80,出口,exit,でぐち,null,0
+81,立つ,to stand,たつ,null,0
+82,休む,to rest,やすむ,null,0
+83,学生,student,がくせい,null,0
+84,学校,school,がっこう,null,0
+85,先生,teacher/ doctor,せんせい,null,0
+86,生まれる,to be born,うまれる,null,0
+87,先,the future/ previous,さき,null,0
+88,年,year,とし,null,0
+89,今年,this year,ことし,null,0
+90,時,(1) time/ hour/ (2) occasion/ moment,とき,null,0
+91,時間,time,じかん,null,0
+92,分かる,to be understood,わかる,null,0
+93,そこ,that place,,null,0
+94,今,now,いま,null,0
+95,半,half,はん,null,0
+96,どこ,where,どこ,null,0
+97,いつ,when,いつ,null,0
+98,曜日,day of the week,ようび,null,0
+99,書く,to write,かく,null,0
+100,読む,to read,よむ,null,0
+101,話す,to speak,はなす,null,0
+102,聞く,to hear/ to listen to/ to ask,きく,null,0
+103,食べる,to eat,たべる,null,0
+104,食べ物,food,たべもの,null,0
+105,リンゴ,apple,りんご,null,0
+106,コーヒー,coffee,こーひー,null,0
+107,ホテル,hotel,ほてる,null,0
+108,飲む,to drink,のむ,null,0
+109,買う,to buy,かう,null,0
+110,会う,to meet,あう,null,0
+111,来る,to come,くる,null,0
+112,行く,to go,いく,null,0
+113,どう,how/ in what way,どう,null,0
+114,どれ,which (of three or more),どれ,null,0
+115,会社,company,かいしゃ,null,0
+116,車,car/ vehicle,くるま,null,0
+117,電車,electric train,でんしゃ,null,0
+118,駅,station,えき,null,0
+119,高い,tall/ expensive,たかい,null,0
+120,安い,cheap,やすい,null,0
+121,新しい,new,あたらしい,null,0
+122,古い,old (not used for people),ふるい,null,0
+123,長い,long,ながい,null,0
+124,天,heavenly; imperial,あまつ,null,0
+125,雨,rain,あめ,null,0

@@ -1,0 +1,117 @@
+﻿id,word,meaning,reading,next_review_time,correct_counter
+1,自分,oneself,じぶん,null,0
+2,事,thing/ matter/ fact/ circumstances,こと,null,0
+3,物,thing,もの,null,0
+4,誰,who,だれ,null,0
+5,何,what,なん / なに,null,0
+6,いくつ,how many?/ how old?,いくつ,null,0
+7,いくら,how much?,いくら,null,0
+8,開ける,to open,あける,null,0
+9,閉める,to close something,しめる,null,0
+10,明るい,bright; cheerful,あかるい,null,0
+11,暗い,gloomy,くらい,null,0
+12,多い,many,おおい,null,0
+13,少ない,a few,すくない,null,0
+14,早い,early,はやい,null,0
+15,遅い,late/ slow,おそい,null,0
+16,近い,near,ちかい,null,0
+17,遠い,far,とおい,null,0
+18,強い,powerful,つよい,null,0
+19,弱い,weak,よわい,null,0
+20,重い,heavy,おもい,null,0
+21,軽い,light,かるい,null,0
+22,太い,fat,ふとい,null,0
+23,細い,thin,ほそい,null,0
+24,広い,spacious/ wide,ひろい,null,0
+25,狭い,narrow,せまい,null,0
+26,正しい,correct,ただしい,null,0
+27,ドア,Western style door,どあ,null,0
+28,間,a space,あいだ,null,0
+29,東,east,ひがし,null,0
+30,西,west,にし,null,0
+31,南,south,みなみ,null,0
+32,北,north,きた,null,0
+33,外,outside,そと,null,0
+34,内,inside,うち,null,0
+35,部屋,room,へや,null,0
+36,家,house,いえ,null,0
+37,家族,family,かぞく,null,0
+38,友達,friend,ともだち,null,0
+39,下げる,to hang/ to lower/ to move back,さげる,null,0
+40,上げる,to lift/ to raise/ to increase,あげる,null,0
+41,彼,he/ boyfriend,かれ,null,0
+42,彼女,she/ girlfriend,かのじょ,null,0
+43,君,(informal) You (used by men towards women),きみ,null,0
+44,子供,child,こども,null,0
+45,動く,to move,うごく,null,0
+46,働く,to work,はたらく,null,0
+47,待つ,to wait,まつ,null,0
+48,持つ,to hold,もつ,null,0
+49,使う,to use,つかう,null,0
+50,作る,to make,つくる,null,0
+51,思う,to think/ to feel,おもう,null,0
+52,知る,to know,しる,null,0
+53,あげる,to give (receiver is not in the speaker's group),あげる,null,0
+54,くれる,to give (receiver is in the speaker's group),くれる,null,0
+55,もらう,to receive,もらう,null,0
+56,言う,to say,いう,null,0
+57,教える,to teach/ to tell,おしえる,null,0
+58,習う,to learn,ならう,null,0
+59,走る,to run,はしる,null,0
+60,歩く,to walk,あるく,null,0
+61,止める,to stop something,とめる,null,0
+62,止まる,to come to a halt,とまる,null,0
+63,始める,to begin,はじめる,null,0
+64,通る,to go through,とおる,null,0
+65,進む,to make progress,すすむ,null,0
+66,送る,to send,おくる,null,0
+67,起きる,to get up,おきる,null,0
+68,寝る,to go to bed/ to sleep,ねる,null,0
+69,遊ぶ,to play/ to make a visit,あそぶ,null,0
+70,泳ぐ,to swim,およぐ,null,0
+71,降る,to fall/ e.g. rain or snow,ふる,null,0
+72,住所,an address/ a residence,じゅうしょ,null,0
+73,場所,location,ばしょ,null,0
+74,都市,town/ city/ municipal/ urban,とし,null,0
+75,市,city,し,null,0
+76,町,town/ city,まち,null,0
+77,村,village,むら,null,0
+78,国,country,くに,null,0
+79,世界,the world,せかい,null,0
+80,地図,map,ちず,null,0
+81,図書館,library,としょかん,null,0
+82,簡単,simple,かんたん,null,0
+83,難しい,difficult,むずかしい,null,0
+84,同じ,same,おなじ,null,0
+85,違う,to differ,ちがう,null,0
+86,特別,special,とくべつ,null,0
+87,普通,usually/ or a train that stops at every station,ふつう,null,0
+88,本当,truth/ reality,ほんと,null,0
+89,危ない,dangerous,あぶない,null,0
+90,安全,safety,あんぜん,null,0
+91,便利,useful/ convenient,べんり,null,0
+92,毎日,every day,まいにち,null,0
+93,毎週,every week,まいしゅう,null,0
+94,毎月,every month,まいげつ / まいつき,null,0
+95,毎年,every year,まいねん / まいとし,null,0
+96,時々,sometimes,ときどき,null,0
+97,よく,often/ well,よく,null,0
+98,あまり,not very,あまり,null,0
+99,全然,(1) wholly/ entirely/ completely/ (2) not at all (with neg. verb),ぜんぜん,null,0
+100,すぐ,immediately,すぐ,null,0
+101,もう,already,もう,null,0
+102,問題,problem,もんだい,null,0
+103,質問,question,しつもん,null,0
+104,答え,answer; response,こたえ,null,0
+105,言葉,word/ language,ことば,null,0
+106,声,voice,こえ,null,0
+107,体,body,からだ,null,0
+108,頭,head,あたま,null,0
+109,心,core/ heart,こころ,null,0
+110,気持ち,feeling/ mood,きもち,null,0
+111,病気,illness,びょうき,null,0
+112,銀行,bank,ぎんこう,null,0
+113,薬,medicine,くすり,null,0
+114,悪,evil; wickedness,あく,null,0
+115,悪い,bad,わるい,null,0
+116,いい,good,いい,null,0

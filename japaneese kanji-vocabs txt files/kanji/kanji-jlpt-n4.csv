@@ -1,0 +1,91 @@
+﻿id,kanji,meaning,on_reading,kun_reading,next_review_time,correct_counter
+1,白,white,ハク/ビャク,しら-/しろ/しろ.い,null,0
+2,黒,black,コク,くろ/くろ.い/くろ.ずむ,null,0
+3,赤,red,シャク/セキ,あか/あか-/あか.い/あか.らむ/あか.らめる,null,0
+4,青,blue/green,ショウ/セイ,あお/あお-/あお.い,null,0
+5,事,business/fact/matter/possibly/reason/thing,ジ/ズ,こと/つか.う/つか.える,null,0
+6,物,matter/object/thing,ブツ/モツ,もの/もの-,null,0
+7,開,open/unfold/unseal,カイ,-びら.き/あ.く/あ.ける/ひら.き/ひら.く/ひら.ける,null,0
+8,閉,closed/shut,ヘイ,し.まる/し.める/た.てる/と.ざす/と.じる,null,0
+9,明,bright/light,ミョウ/ミン/メイ,-あ.け/あ.かす/あ.かり/あ.く/あ.くる/あ.ける/あか.らむ/あか.るい/あか.るむ/あき.らか,null,0
+10,暗,be blinded/darkness/disappear/grow dark/informal/shade,アン,くら.い/くら.む/くれ.る,null,0
+11,多,frequent/many/much,タ,おお.い/まさ.に/まさ.る,null,0
+12,少,few/little,ショウ,すく.ない/すこ.し,null,0
+13,早,early/fast,サッ/ソウ,さ-/はや/はや-/はや.い/はや.まる/はや.める,null,0
+14,遅,back/late/later/slow,チ,おく.らす/おく.れる/おそ.い,null,0
+15,近,akin/early/near/tantamount,キン/コン,ちか.い,null,0
+16,遠,distant/far,エン/オン,とお.い,null,0
+17,強,strong,キョウ/ゴウ,こわ.い/し.いる/つよ.い/つよ.まる/つよ.める,null,0
+18,弱,frail/weak,ジャク,よわ.い/よわ.まる/よわ.める/よわ.る,null,0
+19,重,-fold/esteem/heap up/heavy/important/nest of boxes/pile up/respect,ジュウ/チョウ,え/おも/おも.い/おも.なう/おも.り/かさ.なる/かさ.ねる,null,0
+20,軽,lightly/trifling/unimportant,キョウ/キン/ケイ,かる.い/かろ.やか/かろ.んじる,null,0
+21,太,big around/plump/thick,タ/タイ,ふと.い/ふと.る,null,0
+22,細,dainty/detailed/get thin/narrow/precise/slender/taper,サイ,こま.か/こま.かい/ほそ.い/ほそ.る,null,0
+23,広,broad/spacious/wide,コウ,ひろ.い/ひろ.がる/ひろ.げる/ひろ.まる/ひろ.める,null,0
+24,狭,contract/cramped/narrow/tight,キョウ/コウ,さ/せば.まる/せば.める/せま.い,null,0
+25,新,new,シン,あたら.しい/あら-/あら.た/にい-,null,0
+26,古,old,コ,-ふる.す/ふる-/ふる.い,null,0
+27,正,10**40/correct/justice/righteous,ショウ/セイ,ただ.しい/ただ.す/まさ/まさ.に,null,0
+28,間,interval/space,カン/ケン,あい/あいだ/ま,null,0
+29,東,east,トウ,ひがし,null,0
+30,西,Spain/west,サイ/ス/セイ,にし,null,0
+31,南,south,ナ/ナン,みなみ,null,0
+32,北,north,ホク,きた,null,0
+33,外,outside,ガイ/ゲ,そと/と-/はず.す/はず.れる/ほか,null,0
+34,内,among/between/home/house/inside/within,ダイ/ナイ,うち,null,0
+35,部,bureau/class/copy/counter for copies of a newspaper or magazine/dept/part/portion/section,ブ,-べ,null,0
+36,屋,dealer/house/roof/seller/shop,オク,や,null,0
+37,室,apartment/cellar/chamber/greenhouse/room,シツ,むろ,null,0
+38,家,expert/family/home/house/performer/professional,カ/ケ,いえ/うち/や,null,0
+39,族,family/tribe,ゾク,,null,0
+40,友,friend,ユウ,とも,null,0
+41,彼,he/that/the,ヒ,か.の/かの/かれ,null,0
+42,自,oneself,シ/ジ,おの.ずから/おの.ずと/みずか.ら,null,0
+43,動,change/confusion/motion/move/shake/shift,ドウ,うご.かす/うご.く,null,0
+44,働,(kokuji)/work,ドウ,はたら.く,null,0
+45,待,depend on/wait,タイ,-ま.ち/ま.つ,null,0
+46,持,have/hold,ジ,-も.ち/も.つ/も.てる,null,0
+47,使,ambassador/cause/envoy/messenger/order/send on a mission/use,シ,-つか.い/-づか.い/つか.い/つか.う,null,0
+48,作,build/make/prepare/production,サ/サク,-づく.り/つく.り/つく.る,null,0
+49,思,think,シ,おぼ.す/おも.う/おもえら.く,null,0
+50,知,know/wisdom,チ,し.らせる/し.る,null,0
+51,言,say/word,ゲン/ゴン,い.う/こと,null,0
+52,教,doctrine/faith/teach,キョウ,おし.える/おそ.わる,null,0
+53,習,learn,シュウ/ジュ,なら.い/なら.う,null,0
+54,勉,diligent/encourage/endeavour/exertion/make effort/strive,ベン,つと.める,null,0
+55,強,strong,キョウ/ゴウ,こわ.い/し.いる/つよ.い/つよ.まる/つよ.める,null,0
+56,走,run,ソウ,はし.る,null,0
+57,歩,counter for steps/walk,フ/ブ/ホ,あゆ.む/ある.く,null,0
+58,止,halt/stop,シ,-さ.し/-さ.す/-と.める/-ど.まり/-ど.め/-や.む/と.まる/と.める/とど.まる/とど.め/とど.める/や.む/や.める/よ.す,null,0
+59,始,begin/commence,シ,-はじ.める/はじ.まる/はじ.める,null,0
+60,通,"avenue/commute/counter for letters, notes, documents, etc./pass through/traffic",ツ/ツウ,-とお.り/-どお.し/-どお.り/かよ.う/とお.し/とお.す/とお.り/とお.る,null,0
+61,進,advance/proceed/progress/promote,シン,すす.む/すす.める,null,0
+62,送,escort/send,ソウ,おく.る,null,0
+63,起,get up/rouse/wake up,キ,お.きる/お.こす/お.こる/おこ.す/た.つ,null,0
+64,寝,bed/lie down/remain unsold/rest/sleep,シン,い.ぬ/ね.かす/ね.る/みたまや/や.める,null,0
+65,遊,play,ユ/ユウ,あそ.ばす/あそ.ぶ,null,0
+66,泳,swim,エイ,およ.ぐ,null,0
+67,乗,board/counter for vehicles/join/mount/multiplication/power/record/ride,ショウ/ジョウ,-の.り/の.せる/の.る,null,0
+68,降,descend/fall/precipitate/surrender,コウ/ゴ,お.りる/お.ろす/くだ.す/くだ.る/ふ.り/ふ.る,null,0
+69,出,come out/exit/go out/leave/protrude/put out,シュツ/スイ,-だ.す/-で/い.だす/い.でる/だ.す/で.る,null,0
+70,入,enter/insert,ジュ/ニュウ,-い.り/-い.る/-い.れ/い.る/い.れる/はい.る,null,0
+71,着,arrive/counter for suits of clothing/don/wear,ジャク/チャク,き.せる/き.る/つ.く/つ.ける,null,0
+72,住,dwell/inhabit/live/reside,ジュウ/チュウ/ヂュウ,-ず.まい/す.まう/す.む,null,0
+73,所,extent/place,ショ,-ところ/とこ/ところ/どころ,null,0
+74,都,all/capital/everything/metropolis,ツ/ト,みやこ,null,0
+75,市,city/market/town,シ,いち,null,0
+76,町,block/street/town/village,チョウ,まち,null,0
+77,村,town/village,ソン,むら,null,0
+78,国,country,コク,くに,null,0
+79,世,generation/public/society/world,セ/セイ/ソウ,よ,null,0
+80,地,earth/ground,ジ/チ,,null,0
+81,図,audacious/drawing/extraordinary/map/plan,ズ/ト,え/はか.る,null,0
+82,館,building/large building/mansion/palace,カン,たて/やかた,null,0
+83,公,governmental/official/prince/public,ク/コウ,おおやけ,null,0
+84,園,farm/garden/park/yard,エン,その,null,0
+85,旅,travel/trip,リョ,たび,null,0
+86,駅,station,エキ,,null,0
+87,店,shop/store,テン,たな/みせ,null,0
+88,銀,silver,ギン,しろがね,null,0
+89,薬,benefit/chemical/enamel/gunpowder/medicine,ヤク,くすり,null,0
+90,悪,bad/evil/false/rascal/vice/wrong,アク/オ,-にく.い/あ.し/ああ/いずくに/いずくんぞ/にく.い/にく.む/わる-/わる.い,null,0

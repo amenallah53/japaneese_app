@@ -1,0 +1,88 @@
+﻿id,kanji,meaning,on_reading,kun_reading,next_review_time,correct_counter
+1,一,one/one radical (no.1),イチ/イツ,ひと-/ひと.つ,null,0
+2,二,two/two radical (no. 7),ジ/ニ,ふた/ふた.つ/ふたたび,null,0
+3,三,three,サン/ゾウ,み/み.つ/みっ.つ,null,0
+4,四,four,シ,よ/よ.つ/よっ.つ/よん,null,0
+5,五,five,ゴ,いつ/いつ.つ,null,0
+6,六,six,リク/ロク,む/む.つ/むい/むっ.つ,null,0
+7,七,seven,シチ,なな/なな.つ/なの,null,0
+8,八,eight/eight radical (no. 12),ハチ/ハツ,や/や.つ/やっ.つ/よう,null,0
+9,九,nine,キュウ/ク,ここの/ここの.つ,null,0
+10,十,ten,ジッ/ジュウ/ジュッ,そ/と/とお,null,0
+11,百,hundred,ヒャク/ビャク,もも,null,0
+12,千,thousand,セン,ち,null,0
+13,万,"10,000/ten thousand",バン/マン,よろず,null,0
+14,人,person,ジン/ニン,-と/-り/ひと,null,0
+15,子,11PM-1AM/child/first sign of Chinese zodiac/sign of the rat,シ/ス/ツ,-こ/こ/ね,null,0
+16,日,Japan/counter for days/day/sun,ジツ/ニチ,-か/-び/ひ,null,0
+17,月,month/moon,ガツ/ゲツ,つき,null,0
+18,本,book/counter for long cylindrical things/main/origin/present/real/true,ホン,もと,null,0
+19,火,fire,カ,-び/ひ/ほ-,null,0
+20,水,water,スイ,みず/みず-,null,0
+21,木,tree/wood,ボク/モク,き/こ-,null,0
+22,金,gold,キン/コン/ゴン,-がね/かな-/かね,null,0
+23,土,earth/ground/soil,ト/ド,つち,null,0
+24,山,mountain,サン/セン,やま,null,0
+25,川,river/river or three-stroke river radical (no. 47)/stream,セン,かわ,null,0
+26,田,rice field/rice paddy,デン,た,null,0
+27,上,above/up,シャン/ショウ/ジョウ,-あ.がり/-あ.がる/-あ.げる/-うえ/あ.がり/あ.がる/あ.げる/うえ/うわ-/かみ/たてまつ.る/のぼ.す/のぼ.せる/のぼ.り/のぼ.る,null,0
+28,下,below/descend/down/give/inferior/low,カ/ゲ,-くだ.す/お.りる/お.ろす/くだ.さる/くだ.す/くだ.り/くだ.る/さ.がる/さ.げる/した/しも/もと,null,0
+29,中,center/in/inside/mean/middle,チュウ,あた.る/うち/なか,null,0
+30,大,big/large,タイ/ダイ,-おお.いに/おお-/おお.きい,null,0
+31,小,little/small,ショウ,お-/こ-/さ-/ちい.さい,null,0
+32,左,left,サ/シャ,ひだり,null,0
+33,右,right,ウ/ユウ,みぎ,null,0
+34,口,mouth,ク/コウ,くち,null,0
+35,目,care/class/experience/eye/favor/insight/look,ボク/モク,-め/ま-/め,null,0
+36,耳,ear,ジ,みみ,null,0
+37,手,hand,シュ/ズ,-て/た-/て/て-,null,0
+38,足,be sufficient/counter for pairs of footwear/foot/leg,ソク,あし/た.す/た.りる/た.る,null,0
+39,見,chances/hopes/idea/look at/opinion/see/visible,ケン,み.える/み.せる/み.る,null,0
+40,音,noise/sound,-ノン/イン/オン,おと/ね,null,0
+41,力,bear up/exert/power/strain/strength/strong,リイ/リキ/リョク,ちから,null,0
+42,気,air/atmosphere/mind/mood/spirit,キ/ケ,き,null,0
+43,円,circle/round/yen,エン,まど/まど.か/まる/まる.い/まろ.やか,null,0
+44,入,enter/insert,ジュ/ニュウ,-い.り/-い.る/-い.れ/い.る/い.れる/はい.る,null,0
+45,出,come out/exit/go out/leave/protrude/put out,シュツ/スイ,-だ.す/-で/い.だす/い.でる/だ.す/で.る,null,0
+46,立,erect/rise/set up/stand up,リットル/リツ/リュウ,-た.つ/-た.て/-た.てる/-だ.て/-だ.てる/た.ち-/た.つ/た.て-/た.てる/たて-,null,0
+47,休,day off/rest/retire/sleep,キュウ,やす.まる/やす.む/やす.める,null,0
+48,学,learning/science/study,ガク,まな.ぶ,null,0
+49,校,correction/exam/printing/proof/school,キョウ/コウ,,null,0
+50,生,birth/genuine/life,ショウ/セイ,-う/い.かす/い.きる/い.ける/う.まれ/う.まれる/う.む/うま.れる/うまれ/お.う/き/な.す/な.る/なま/なま-/は.える/は.やす/む.す,null,0
+51,先,ahead/before/future/precedence/previous,セン,さき/ま.ず,null,0
+52,年,counter for years/year,ネン,とし,null,0
+53,時,hour/time,ジ,-どき/とき,null,0
+54,分,1%/chances/degree/duty/know/minute of time/one's lot/part/rate/segment/shaku/100/share/understand,フン/ブ/ブン,わ.かつ/わ.かる/わ.かれる/わ.け/わ.ける,null,0
+55,今,now,キン/コン,いま,null,0
+56,半,half/middle/odd number/part-/semi-,ハン,なか.ば,null,0
+57,曜,weekday,ヨウ,,null,0
+58,書,write,ショ,-が.き/-がき/か.く,null,0
+59,読,read,トウ/トク/ドク,-よ.み/よ.む,null,0
+60,話,tale/talk,ワ,はな.す/はなし,null,0
+61,聞,ask/hear/listen,ブン/モン,き.く/き.こえる,null,0
+62,食,eat/food,ショク/ジキ,く.う/く.らう/た.べる/は.む,null,0
+63,飲,drink/smoke/take,イン/オン,-の.み/の.む,null,0
+64,買,buy,バイ,か.う,null,0
+65,行,act/bank/carry out/conduct/going/journey/line/row,アン/ギョウ/コウ,-い.き/-いき/-ゆ.き/-ゆき/い.く/おこ.なう/おこな.う/ゆ.く,null,0
+66,来,become/cause/come/due/next,タイ/ライ,き/き.たす/き.たる/きた.す/きた.る/く.る/こ,null,0
+67,会,association/interview/join/meet/meeting/party,エ/カイ,あ.う/あ.わせる/あつ.まる,null,0
+68,社,association/company/firm/office/shrine,シャ,やしろ,null,0
+69,車,car,シャ,くるま,null,0
+70,電,electricity,デン,,null,0
+71,駅,station,エキ,,null,0
+72,高,expensive/high/tall,コウ,-だか/たか/たか.い/たか.まる/たか.める,null,0
+73,安,cheap/contented/low/peaceful/quiet/relax/rested,アン,やす/やす.い/やす.まる/やす.らか,null,0
+74,新,new,シン,あたら.しい/あら-/あら.た/にい-,null,0
+75,古,old,コ,-ふる.す/ふる-/ふる.い,null,0
+76,長,leader/long/senior/superior,チョウ,おさ/なが.い,null,0
+77,短,brevity/defect/fault/short/weak point,タン,みじか.い,null,0
+78,白,white,ハク/ビャク,しら-/しろ/しろ.い,null,0
+79,黒,black,コク,くろ/くろ.い/くろ.ずむ,null,0
+80,赤,red,シャク/セキ,あか/あか-/あか.い/あか.らむ/あか.らめる,null,0
+81,青,blue/green,ショウ/セイ,あお/あお-/あお.い,null,0
+82,天,heavens/imperial/sky,テン,あま-/あまつ/あめ,null,0
+83,気,air/atmosphere/mind/mood/spirit,キ/ケ,き,null,0
+84,雨,rain,ウ,-さめ/あま-/あめ,null,0
+85,雪,snow,セツ,ゆき,null,0
+86,花,flower,カ/ケ,はな,null,0
+87,草,draft/grass/herbs/pasture/weeds/write,ソウ,-ぐさ/くさ/くさ-,null,0

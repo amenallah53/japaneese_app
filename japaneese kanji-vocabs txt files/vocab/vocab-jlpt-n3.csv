@@ -1,0 +1,201 @@
+﻿id,word,meaning,reading,next_review_time,correct_counter
+1,初めて,for the first time,はじめて,null,0
+2,初心者,beginner,しょしんしゃ,null,0
+3,愛,love,あい,null,0
+4,愛情,love/ affection,あいじょう,null,0
+5,案内,to guide,あんない・する,null,0
+6,提案,proposal/ proposition/ suggestion,ていあん,null,0
+7,以上,more than/ this is all,いじょう,null,0
+8,以前,ago/ since/ before/ previous,いぜん,null,0
+9,意味,meaning,いみ,null,0
+10,意見,opinion,いけん,null,0
+11,医者,medical doctor,いしゃ,null,0
+12,医院,doctor's office/ clinic,いいん,null,0
+13,会社員,company employee/ office worker,かいしゃいん,null,0
+14,店員,shop assistant,てんいん,null,0
+15,病院,hospital,びょういん,null,0
+16,大学院,graduate school,だいがくいん,null,0
+17,運転,to drive,うんてん・する,null,0
+18,運命,fate,うんめい,null,0
+19,映画,movie,えいが,null,0
+20,反映,reflection/ influence,はんえい,null,0
+21,英語,English language,えいご,null,0
+22,英雄,hero; great man,えいゆう,null,0
+23,横,beside/ side/ width,よこ,null,0
+24,横断歩道,pedestrian crossing/ crosswalk,おうだんほどう,null,0
+25,屋根,roof,やね,null,0
+26,本屋,bookstore,ほんや,null,0
+27,温度,temperature,おんど,null,0
+28,温かい,warm,あたたかい/ あったかい,null,0
+29,化粧,make-up (cosmetic),けしょう,null,0
+30,文化,culture,ぶんか,null,0
+31,荷物,luggage,にもつ,null,0
+32,出荷,しゅっか,shipping/ delivery,null,0
+33,階段,stairs,かいだん,null,0
+34,三階,さんがい,third floor,null,0
+35,感じ,feeling/ sense/ impression,かんじ,null,0
+36,感謝,thanks/ gratitude,かんしゃ,null,0
+37,漢字,chinese character,かんじ,null,0
+38,漢方薬,chinese herbal medicine,かんぽうやく,null,0
+39,図書館,library,としょかん,null,0
+40,美術館,art gallery,びじゅつかん,null,0
+41,願う,to desire/ to wish/ to request,ねがう,null,0
+42,願書,written application or petition,がんしょ,null,0
+43,起きる,to get up,おきる,null,0
+44,起業,entrepreneurship,きぎょう,null,0
+45,期待,expectation/ anticipation/ hope,きたい,null,0
+46,期間,period/ term,きかん,null,0
+47,客,guest/ customer,きゃく,null,0
+48,乗客,passenger,じょうきゃく,null,0
+49,急ぐ,to hurry,いそぐ,null,0
+50,救急車,ambulance,きゅうきゅうしゃ,null,0
+51,研究,research,けんきゅう,null,0
+52,究極,ultimate; final; eventual,きゅうきょく,null,0
+53,級,class/ grade/ rank/ school class/ grade,きゅう,null,0
+54,上級,advanced level/ high grade/ senior,じょうきゅう,null,0
+55,去年,last year,きょねん,null,0
+56,過去,the past/ bygone days/ the previous,かこ,null,0
+57,魚,fish,さかな,null,0
+58,金魚,goldfish,きんぎょ,null,0
+59,工業,the manufacturing industry,こうぎょう,null,0
+60,卒業,graduation,そつぎょう,null,0
+61,郵便局,post office,ゆうびんきょく,null,0
+62,放送局,broadcasting station,ほうそうきょく,null,0
+63,近い,near,ちかい,null,0
+64,最近,latest/ nowadays,さいきん,null,0
+65,道具,tool/ means,どうぐ,null,0
+66,家具,furniture,かぐ,null,0
+67,関係,relationship,かんけい,null,0
+68,係員,official/ attendant,かかりいん,null,0
+69,結婚,marriage,けっこん,null,0
+70,結果,result/ consequence,けっか,null,0
+71,建物,building,たてもの,null,0
+72,建設,construction/ establishment,けんせつ,null,0
+73,研究,research,けんきゅう,null,0
+74,研修,training,けんしゅう,null,0
+75,県,prefecture,けん,null,0
+76,県庁,prefectural office,けんちょう,null,0
+77,車庫,garage/ car shed,しゃこ,null,0
+78,倉庫,storehouse/ warehouse/ godown,そうこ,null,0
+79,向く,to face,むく,null,0
+80,方向,direction/ course/ way,ほうこう,null,0
+81,幸せ,happiness/ good fortune/ luck/ blessing,しあわせ,null,0
+82,幸福,happiness/ blessedness,こうふく,null,0
+83,港,harbour,みなと,null,0
+84,空港,airport,くうこう,null,0
+85,番号,number,ばんごう,null,0
+86,号車,suffix for train car numbers,ごうしゃ,null,0
+87,根,root,ね,null,0
+88,根本,origin; source; foundation; root; base; principle,こんぽん,null,0
+89,お祭り,festival,おまつり,null,0
+90,文化祭,school festival/ culture festival,ぶんかさい,null,0
+91,皿,plate/ dish,さら,null,0
+92,灰皿,ashtray,はいざら,null,0
+93,仕事,job,しごと,null,0
+94,仕方,method,しかた,null,0
+95,死ぬ,to die,しぬ,null,0
+96,死亡,death/ mortality,しぼう,null,0
+97,開始,start/ commencement/ beginning,かいし,null,0
+98,指,finger,ゆび,null,0
+99,指示,indication; instruction; directions,しじ,null,0
+100,歯,tooth,は,null,0
+101,歯,tooth,は,null,0
+102,歯医者,dentist,はいしゃ,null,0
+103,試験,examination,しけん,null,0
+104,試す,to attempt/ to test,ためす,null,0
+105,実,fruit/ nut/ seed/ content/ good result,み,null,0
+106,実際,practical/ actual condition/ status quo,じっさい,null,0
+107,写真,photograph,しゃしん,null,0
+108,描写,depiction; description; portrayal,びょうしゃ,null,0
+109,学者,scholar,がくしゃ,null,0
+110,医者,medical doctor,いしゃ,null,0
+111,主人,head Of household/ husband/ landlord,しゅじん,null,0
+112,主要,chief/ main/ principal/ major,しゅよう,null,0
+113,守る,to protect/ to obey/ to guard/ to abide (by the rules),まもる,null,0
+114,留守,absence,るす,null,0
+115,取る,to take something,とる,null,0
+116,取材,choice of subject; collecting data,しゅざい,null,0
+117,お酒,alcohol/ rice wine,おさけ,null,0
+118,日本酒,japanese style alcohol/ sake,にほんしゅ,null,0
+119,受ける,to take a lesson or test,うける,null,0
+120,受験,taking an examination,じゅけん,null,0
+121,州,sandbank,しゅう,null,0
+122,九州,kyuushuu,きゅうしゅう,null,0
+123,習う,to learn,ならう,null,0
+124,習慣,custom/ manners,しゅうかん,null,0
+125,集まる,to gather; to collect; to assemble,あつまる,null,0
+126,集合,gathering/ assembly/ meeting/ set (math),しゅうごう,null,0
+127,住む,to live in,すむ,null,0
+128,住所,an address/ a residence,じゅうしょ,null,0
+129,重い,heavy,おもい,null,0
+130,重要,important/ momentous/ essential/ principal/ major,じゅうよう,null,0
+131,宿題,homework,しゅくだい,null,0
+132,民宿,private home providing lodging for travelers,みんしゅく,null,0
+133,場所,location,ばしょ,null,0
+134,台所,kitchen,だいどころ,null,0
+135,暑い,hot,あつい,null,0
+136,暑中見舞い,summer greeting card,しょちゅうみまい,null,0
+137,助ける,to help/ to save/ to rescue,たすける,null,0
+138,助手,helper/ helpmeet/ assistant/ tutor,じょしゅ,null,0
+139,昭和,showa era,しょうわ,null,0
+140,昭和的,showa era,しょうわてき,null,0
+141,消す,to erase/ to turn off power,けす,null,0
+142,消火器,fire extinguisher,しょうかき,null,0
+143,商店,shop/ business firm,しょうてん,null,0
+144,商業,commerce/ trade/ business,しょうぎょう,null,0
+145,文章,sentence/ text,ぶんしょう,null,0
+146,第一章,chapter one,だいいっしょう,null,0
+147,勝つ,to win,かつ,null,0
+148,勝負,victory or defeat/ match/ contest/ game/ bout,しょうぶ,null,0
+149,乗る,to get on/ to ride,のる,null,0
+150,乗車券,passenger ticket,じょうしゃけん,null,0
+151,植物,plant/ vegetation,しょくぶつ,null,0
+152,植える,to plant/ to grow,うえる,null,0
+153,身体,the body,しんたい,null,0
+154,身分,social position/ social status,みぶん,null,0
+155,神様,god,かみさま,null,0
+156,精神,mind/ soul/ heart/ spirit/ intention,せいしん,null,0
+157,真実,truth; reality,さな,null,0
+158,真ん中,middle; centre; mid-way,まんなか,null,0
+159,深い,deep,ふかい,null,0
+160,深刻,serious,しんこく,null,0
+161,進む,to make progress,すすむ,null,0
+162,進学,going on to university,しんがく,null,0
+163,世界,the world,せかい,null,0
+164,世話,to look after,せわ・する,null,0
+165,整理,sorting/ arrangement/ adjustment/ regulation,せいり,null,0
+166,整備,adjustment/ completion/ consolidation,せいび,null,0
+167,昔,olden days/ former,むかし,null,0
+168,昔話,folk tale/ legend/ old story/ folklore,むかしばなし,null,0
+169,全部,all,ぜんぶ,null,0
+170,安全,safety,あんぜん,null,0
+171,全,all/ whole/ entire/ complete/ overall/ pan,ぜん,null,0
+172,送る,to send,おくる,null,0
+173,送料,postage/ carriage,そうりょう,null,0
+174,想像,imagination/ guess,そうぞう,null,0
+175,思想,thought/ idea,しそう,null,0
+176,息,breath/ tone,いき,null,0
+177,休息,rest/ relief/ relaxation,きゅうそく,null,0
+178,速い,quick,はやい,null,0
+179,速度,speed/ velocity/ rate,そくど,null,0
+180,続ける,to continue,つづける,null,0
+181,連続,serial/ consecutive/ continuity/ continuing,れんぞく,null,0
+182,卒業,graduation,そつぎょう,null,0
+183,卒業式,graduation ceremony,そつぎょうしき,null,0
+184,存在,existence/ being,そんざい,null,0
+185,ご存知,knowing/ being aware (of),ぞんじ,null,0
+186,対する,to face/ to confront/ to oppose,たいする,null,0
+187,対策,counter-plan/ counter-measure,たいさく,null,0
+188,第一,first/ foremost/ # 1,だいいち,null,0
+189,第二章,chapter 2,だいにしょう,null,0
+190,問題,problem,もんだい,null,0
+191,話題,topic/ subject,わだい,null,0
+192,短い,short,みじかい,null,0
+193,短所,(1) defect/ demerit/ weak point/ (2) disadvantage,たんしょ,null,0
+194,相談,to discuss,そうだん・する,null,0
+195,会談,conversation; conference; discussion; interview,かいだん,null,0
+196,着く,to arrive at,つく,null,0
+197,到着,arrival,とうちゃく,null,0
+198,調べる,to investigate,しらべる,null,0
+199,調査,investigation/ examination/ inquiry/ survey,ちょうさ,null,0
+200,発音,pronunciation,はつおん,null,0

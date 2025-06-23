@@ -144,7 +144,7 @@ class MyAppState extends State<MyApp> {
     await _loadUnlockedKanjiVocabs();
 
     bool hasEnoughKanji =
-        unlockedKanjiList.length - unlockedVocabList.length > 0;
+        unlockedKanjiList.length - unlockedVocabList.length >= 10;
 
     if (lastVocabLessonLogin == null) {
       // No saved date, so show lesson
@@ -154,7 +154,7 @@ class MyAppState extends State<MyApp> {
       Duration difference = DateTime.now().difference(lastLoginTime);
 
       // If it's been more than a day, show lesson
-      shouldShowLesson = difference > Duration(days: 1) && hasEnoughKanji;
+      shouldShowLesson = difference > Duration(days: 1) || hasEnoughKanji;
     }
 
     if (shouldShowLesson) {

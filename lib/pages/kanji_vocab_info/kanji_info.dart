@@ -182,9 +182,10 @@ class _KanjiInfoState extends State<KanjiInfo> {
                 ),
               ),
               Text(
-                levelSrs(kanji.srsStageId![0]),
+                levelSrs(kanji.srsStageId == "" ? "" : kanji.srsStageId![0]),
                 style: TextStyle(
-                  color: colorSrs(kanji.srsStageId![0]),
+                  color: colorSrs(
+                      kanji.srsStageId == "" ? "" : kanji.srsStageId![0]),
                   fontSize: 20,
                   fontWeight: FontWeight.normal,
                 ),
@@ -206,7 +207,9 @@ class _KanjiInfoState extends State<KanjiInfo> {
                 ),
               ),
               Text(
-                kanji.nextReviewTime!.toIso8601String().substring(0, 10),
+                kanji.nextReviewTime == null
+                    ? "N/A"
+                    : kanji.nextReviewTime!.toIso8601String().substring(0, 10),
                 style: TextStyle(
                   color: const Color(0xFF1F1F1F),
                   fontSize: 20,
@@ -223,6 +226,9 @@ class _KanjiInfoState extends State<KanjiInfo> {
   String levelSrs(String id) {
     late String lvlSrs;
     switch (id) {
+      case "":
+        lvlSrs = "N/A";
+        break;
       case "a":
         lvlSrs = "Apprentice";
         break;
@@ -245,6 +251,9 @@ class _KanjiInfoState extends State<KanjiInfo> {
   Color colorSrs(String id) {
     late Color color;
     switch (id) {
+      case "":
+        color = Color(0xFF1F1F1F);
+        break;
       case "a":
         color = Color(0xFFFF9CE9);
         break;

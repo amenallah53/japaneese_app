@@ -178,9 +178,10 @@ class _VocabInfoState extends State<VocabInfo> {
                 ),
               ),
               Text(
-                levelSrs(vocab.srsStageId![0]),
+                levelSrs(vocab.srsStageId == "" ? "" : vocab.srsStageId![0]),
                 style: TextStyle(
-                  color: colorSrs(vocab.srsStageId![0]),
+                  color: colorSrs(
+                      vocab.srsStageId == "" ? "" : vocab.srsStageId![0]),
                   fontSize: 20,
                   fontWeight: FontWeight.normal,
                 ),
@@ -202,7 +203,9 @@ class _VocabInfoState extends State<VocabInfo> {
                 ),
               ),
               Text(
-                vocab.nextReviewTime!.toIso8601String().substring(0, 10),
+                vocab.nextReviewTime == null
+                    ? "N/A"
+                    : vocab.nextReviewTime!.toIso8601String().substring(0, 10),
                 style: TextStyle(
                   color: const Color(0xFF1F1F1F),
                   fontSize: 20,
@@ -219,6 +222,9 @@ class _VocabInfoState extends State<VocabInfo> {
   String levelSrs(String id) {
     late String lvlSrs;
     switch (id) {
+      case "":
+        lvlSrs = "N/A";
+        break;
       case "a":
         lvlSrs = "Apprentice";
         break;
@@ -241,6 +247,9 @@ class _VocabInfoState extends State<VocabInfo> {
   Color colorSrs(String id) {
     late Color color;
     switch (id) {
+      case "":
+        color = Color(0xFF1F1F1F);
+        break;
       case "a":
         color = Color(0xFFFF9CE9);
         break;

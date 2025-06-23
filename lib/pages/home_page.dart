@@ -8,7 +8,7 @@ import 'package:japaneese_app/models/NavigationDrawerModel.dart';
 import 'package:japaneese_app/models/appbar/HomePageAppBar.dart';
 import 'package:japaneese_app/models/stats/LearningProgressStat.dart';
 import 'package:japaneese_app/models/stats/SrsStageStat.dart';
-import 'package:japaneese_app/models/text%20fields/TextField.dart';
+import 'package:japaneese_app/models/text%20fields/CustomSearchTextField.dart';
 
 class HomePage extends StatefulWidget {
   final List<Vocab> totalVocabs;
@@ -89,7 +89,9 @@ class _HomePageState extends State<HomePage> {
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
-            CustomTextField(),
+            CustomSearchTextField(
+                totalVocabs: widget.totalVocabs,
+                totalKanjis: widget.totalKanjis),
             SizedBox(
               height: 20,
             ),
@@ -126,10 +128,10 @@ class _HomePageState extends State<HomePage> {
             SizedBox(
               height: 20,
             ),
-            expansionTileSrsStage(context),
-            SizedBox(
+            //expansionTileSrsStage(context),
+            /*SizedBox(
               height: 20,
-            ),
+            ),*/
             listViewSrsStageStat(context)
           ],
         ),

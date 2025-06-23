@@ -100,9 +100,9 @@ class MyAppState extends State<MyApp> {
     if (shouldShowLesson) {
       var kanjis = await getLessonKanjis();
       print("Current queue length: ${kanjis.length}");
-      if (kanjis.length < 10) {
+      if (kanjis.isEmpty) {
         try {
-          await insertIntoLessonKanjisQueue(10 - kanjis.length);
+          await insertIntoLessonKanjisQueue(10);
           // Refresh the list after insertion
           kanjis = await getLessonKanjis();
           print("Updated queue length: ${kanjis.length}");
@@ -144,7 +144,7 @@ class MyAppState extends State<MyApp> {
     await _loadUnlockedKanjiVocabs();
 
     bool hasEnoughKanji =
-        unlockedKanjiList.length - unlockedVocabList.length >= 10;
+        unlockedKanjiList.length - unlockedVocabList.length > 0;
 
     if (lastVocabLessonLogin == null) {
       // No saved date, so show lesson
@@ -154,16 +154,16 @@ class MyAppState extends State<MyApp> {
       Duration difference = DateTime.now().difference(lastLoginTime);
 
       // If it's been more than a day, show lesson
-      shouldShowLesson = difference > Duration(days: 1);
+      shouldShowLesson = difference > Duration(days: 1) && hasEnoughKanji;
     }
 
-    if (shouldShowLesson && hasEnoughKanji) {
+    if (shouldShowLesson) {
       var vocabs = await getLessonVocabs();
       print("Current queue length: ${vocabs.length}");
 
-      if (vocabs.length < 10) {
+      if (vocabs.isEmpty) {
         try {
-          await insertIntoLessonVocabsQueue(10 - vocabs.length);
+          await insertIntoLessonVocabsQueue(10);
           // Refresh the list after insertion
           vocabs = await getLessonVocabs();
           print("Updated queue length: ${vocabs.length}");
